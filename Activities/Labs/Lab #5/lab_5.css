@@ -1,0 +1,27 @@
+#s3{
+    display:block;
+}
+
+#p1, #p2{
+    float:left;
+}
+
+#img1{
+    position: fixed;
+    left: 200px;
+    top: 300px;
+    z-index: -1;
+}
+
+#img2{
+    top: 500px;
+    position:absolute;
+}
+
+#p1{
+    display:inline;
+}
+
+#p2{
+    display:inline;
+}
